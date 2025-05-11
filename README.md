@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Risyad Wibawa 👋
 
 <!--
 **ajigbolang/ajigbolang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning [**Flutter**](https://flutter.com) Framework
+
+- 😄😄😄😄
+
+![Welcome](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM4bjMxcXFmdnhtNXJnYzM1dDJ5ZjlnMTdndWhmd3Nxd2F3YmFvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rsp9jLIy0VZOKlZziw/giphy.gif)
