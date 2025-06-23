@@ -1,7 +1,5 @@
 ## Hello World! I'm Risyad Wibawa 👋
 
-![Risyad](img/github-header-image(11).png)
-
 <!--
 **ajigbolang/ajigbolang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
